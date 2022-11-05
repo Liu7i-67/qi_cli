@@ -1,0 +1,23 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "not found: I",
+      "code": "ENOENT",
+      "stack": "Error: not found: I\n    at getNotFoundError (C:\\Users\\22458\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.28.0\\node_modules\\pnpm\\dist\\pnpm.cjs:41495:51)\n    at Function.whichSync [as sync] (C:\\Users\\22458\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.28.0\\node_modules\\pnpm\\dist\\pnpm.cjs:41572:13)\n    at getCommandAbsolutePathSync (C:\\Users\\22458\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.28.0\\node_modules\\pnpm\\dist\\pnpm.cjs:43137:44)\n    at default_1 (C:\\Users\\22458\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.28.0\\node_modules\\pnpm\\dist\\pnpm.cjs:43146:32)\n    at C:\\Users\\22458\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.28.0\\node_modules\\pnpm\\dist\\pnpm.cjs:177618:39"
+    }
+  },
+  "2 error pnpm": {
+    "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+    "prefix": "C:\\Users\\22458\\Documents\\qi_cil",
+    "err": {
+      "name": "pnpm",
+      "message": "not found: I",
+      "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+      "stack": "Error: not found: I\n    at getNotFoundError (C:\\Users\\22458\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.28.0\\node_modules\\pnpm\\dist\\pnpm.cjs:41495:51)\n    at Function.whichSync [as sync] (C:\\Users\\22458\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.28.0\\node_modules\\pnpm\\dist\\pnpm.cjs:41572:13)\n    at getCommandAbsolutePathSync (C:\\Users\\22458\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.28.0\\node_modules\\pnpm\\dist\\pnpm.cjs:43137:44)\n    at default_1 (C:\\Users\\22458\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.28.0\\node_modules\\pnpm\\dist\\pnpm.cjs:43146:32)\n    at C:\\Users\\22458\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.28.0\\node_modules\\pnpm\\dist\\pnpm.cjs:177618:39"
+    }
+  }
+}

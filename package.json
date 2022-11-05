@@ -1,0 +1,34 @@
+{
+  "name": "qi_cil",
+  "version": "1.0.0",
+  "description": "个人脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liu7i-67/qi_cil.git"
+  },
+  "author": "67",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Liu7i-67/qi_cil/issues"
+  },
+  "homepage": "https://github.com/Liu7i-67/qi_cil#readme",
+  "bin": {
+    "liu7": "./index.js"
+  },
+  "dependencies": {
+    "await-to-js": "^3.0.0",
+    "commander": "^8.2.0",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.2.0",
+    "jscodeshift": "^0.13.0",
+    "prettier": "^2.4.1",
+    "semver": "^7.3.7"
+  },
+  "devDependencies": {
+    "@types/jscodeshift": "^0.11.2"
+  }
+}
