@@ -8,7 +8,7 @@ const projectName = args[1];
 
 async function gReact() {
   if (!projectName) {
-    console.error("请输入项目名称e:g qi_cli --p my-app");
+    console.error("请输入项目名称e:g liu7 --p my-app");
     process.exit(-1);
   }
 

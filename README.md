@@ -7,7 +7,7 @@
 ```bash
 npm install @liu7i/qi_cli -g
 
-qi_cli --mobx
+liu7 --mobx
  
-qi_cli --p {projectName}
+liu7 --p {projectName}
 ```

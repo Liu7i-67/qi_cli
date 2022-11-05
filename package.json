@@ -1,6 +1,6 @@
 {
   "name": "@liu7i/qi_cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "个人脚手架 web cli",
   "main": "index.js",
   "scripts": {
