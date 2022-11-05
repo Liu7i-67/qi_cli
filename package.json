@@ -1,7 +1,7 @@
 {
   "name": "@liu7i/qi_cli",
   "version": "1.0.0",
-  "description": "个人脚手架",
+  "description": "个人脚手架 web cli",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
