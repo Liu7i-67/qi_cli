@@ -1,5 +1,5 @@
 {
-  "name": "qi_cil",
+  "name": "@liu7i/qi_cli",
   "version": "1.0.0",
   "description": "个人脚手架",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Liu7i-67/qi_cil.git"
+    "url": "git+https://github.com/Liu7i-67/qi_cli.git"
   },
   "author": "67",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Liu7i-67/qi_cil/issues"
+    "url": "https://github.com/Liu7i-67/qi_cli/issues"
   },
-  "homepage": "https://github.com/Liu7i-67/qi_cil#readme",
+  "homepage": "https://github.com/Liu7i-67/qi_cli#readme",
   "bin": {
     "liu7": "./index.js"
   },
